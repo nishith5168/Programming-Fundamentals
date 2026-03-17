@@ -13,4 +13,15 @@ print("Question no.4")
 length = 10
 width = 5
 area = length * width
-print(f"The area of the rectangle is: {area}")
+print(f"The area of the rectangle is: {area}\n")
+
+print("Question no.5")
+name = input("Enter your name: ")
+print(f"Hello, {name}, Welcome to NSBM!\n")
+
+print("Question no.6 & 7")
+birthyear = int(input("Enter your birth year: "))
+age = 2026 - birthyear
+print(f"Your age is: {age}\n")
+
+
